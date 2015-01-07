@@ -1,0 +1,7 @@
+{
+  "name": "mori",
+  "description": "Persistent Data Structures for JavaScript",
+  "version": "0.2.9",
+  "main": "mori.js",
+  "scripts": [ "mori.js" ]
+}
